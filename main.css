@@ -1,0 +1,15 @@
+body {
+    color: steelblue;
+    background-color: aqua;
+}
+
+h1 {
+    color: white;
+    font-family: sans-serif;
+}
+
+.holder-type {
+    color: #fb807c;
+    margin-top: 7px;
+    font-family: monospace;
+}
